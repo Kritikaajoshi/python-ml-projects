@@ -1,0 +1,25 @@
+
+Phase 2 Complete: Data loaded and split!
+Phase 3 Complete: Scaler restored and data transformed!
+Phase 4 Complete: All 8 models trained!
+
+--- Predictions for D.csv ---
+model1 Predicted Labels: [0, 1]
+model2 Predicted Labels: [0, 1]
+model3 Predicted Labels: [0, 1]
+model4 Predicted Labels: [0, 1]
+model5 Predicted Labels: [0, 1]
+model6 Predicted Labels: [0, 1]
+model7 Predicted Labels: [0, 1]
+model8 Predicted Labels: [0, 0]
+Consensus Prediction for D.csv: [0, 1]
+
+--- Evaluation Metrics for E.csv ---
+model1: Acc=0.9632, Prec=0.9138, Rec=1.0000, F1=0.9550, FDR=0.0862, MCC=0.9267
+model2: Acc=1.0000, Prec=1.0000, Rec=1.0000, F1=1.0000, FDR=0.0000, MCC=1.0000
+model3: Acc=1.0000, Prec=1.0000, Rec=1.0000, F1=1.0000, FDR=0.0000, MCC=1.0000
+model4: Acc=1.0000, Prec=1.0000, Rec=1.0000, F1=1.0000, FDR=0.0000, MCC=1.0000
+model5: Acc=0.9706, Prec=0.9455, Rec=0.9811, F1=0.9630, FDR=0.0545, MCC=0.9390
+model6: Acc=0.9412, Prec=0.9787, Rec=0.8679, F1=0.9200, FDR=0.0213, MCC=0.8777
+model7: Acc=0.9338, Prec=0.9783, Rec=0.8491, F1=0.9091, FDR=0.0217, MCC=0.8628
+model8: Acc=0.8824, Prec=0.8936, Rec=0.7925, F1=0.8400, FDR=0.1064, MCC=0.7509
